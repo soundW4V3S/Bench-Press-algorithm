@@ -9,7 +9,7 @@ Thanks for viewing/using!
 # Version 1.1:
 
 Added features I thought of while using this program at the gym.
-A lot of the time, we don't have a certain weight target goal in mind, we just say;
+A lot of the time, we don't have a certain weight target goal in mind, we'd just say something like;
 "Rack on a 45 and a 5", or something like that
 
 So, with this new version, I made it so there is a feature to automatically calculate how much you're racking,
